@@ -9,6 +9,9 @@ contributor:
   - agent_name: Wheeler, C. E.
     gutenberg_agent_id: '57899'
     url: http://www.gutenberg.org/2009/agents/57899
+covers:
+- cover_type: archival
+  image_path: 75247-h/images/cover.jpg
 creator:
   author:
     agent_name: Hauptmann, Gerhart
@@ -21,6 +24,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gerhart_Hauptmann
     - https://de.wikipedia.org/wiki/Gerhart_Hauptmann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75247#The-coming-of-peace-A-family-catastrophe
 gutenberg_issued: '2025-01-29'
 gutenberg_type: Text
 identifiers:
